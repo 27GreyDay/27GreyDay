@@ -1,4 +1,4 @@
-### Hi there 👋
+### В теории, теория и практика неразделимы. На практике это не так)
 
 <!--
 **27GreyDay/27GreyDay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
